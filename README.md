@@ -25,10 +25,10 @@ The dashboard gives a clean, interactive, and visual way to monitor weather tren
 ## 📂 Repository Structure
 ```
 
-my-powerbi-weather-dashboard/
-│── weather-dashboard.pbix   # Power BI report file
-│── sample\_data.json         # Example API response (for reference)
-│── README.md                # Project documentation
+Weather\_API\_PowerBI/
+│── images/                   # All icons & screenshots
+│── weather API.pbix          # Power BI dashboard file
+│── README.md                 # Project documentation
 
 ````
 
@@ -37,10 +37,10 @@ my-powerbi-weather-dashboard/
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/my-powerbi-weather-dashboard.git
+   git clone https://github.com/Tanzil209/Weather_API_PowerBI.git
 ````
 
-2. Open `weather-dashboard.pbix` in **Power BI Desktop**.
+2. Open `weather API.pbix` in **Power BI Desktop**.
 3. Replace the API key in the data source with your own [WeatherAPI key](https://www.weatherapi.com/my/).
 4. Refresh the data to load the latest forecast.
 
@@ -56,9 +56,7 @@ my-powerbi-weather-dashboard/
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](./screenshot.png)
-
-<img width="2008" height="1123" alt="image" src="https://github.com/user-attachments/assets/f3b84ca2-9472-4e4b-886c-7db2e9117fdb" />
+![Dashboard Screenshot](https://github.com/Tanzil209/Weather_API_PowerBI/blob/main/images/Screenshot%202025-09-21%20140321.png)
 
 ---
 
@@ -73,5 +71,11 @@ my-powerbi-weather-dashboard/
 ## 👨‍💻 Author
 
 **Tanzil**
+📂 Repository: [Weather\_API\_PowerBI](https://github.com/Tanzil209/Weather_API_PowerBI/tree/main)
 
+```
 
+  
+
+Do you also want me to create a **short description (1-liner)** you can put in the GitHub repo header so it looks professional when people first visit?
+```
