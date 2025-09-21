@@ -72,9 +72,3 @@ bash
 **Tanzil**
 📂 Repository: [Weather\_API\_PowerBI](https://github.com/Tanzil209/Weather_API_PowerBI/tree/main)
 
-```
-
-  
-
-Do you also want me to create a **short description (1-liner)** you can put in the GitHub repo header so it looks professional when people first visit?
-```
