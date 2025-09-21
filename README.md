@@ -56,7 +56,7 @@ Weather\_API\_PowerBI/
 
 ## 📊 Dashboard Preview
 
-<img src="https://github.com/Tanzil209/Weather_API_PowerBI/raw/main/images/Screenshot_output.png" alt="Dashboard Screenshot" width="600">
+![Dashboard Screenshot](https://github.com/Tanzil209/Weather_API_PowerBI/raw/main/images/Screenshot_output.png)
 
 ---
 
