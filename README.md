@@ -3,7 +3,7 @@
 ## 📊 Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/Tanzil209/Weather_API_PowerBI/raw/main/images/Screenshot_output.png)
-
+Deployed report to **Power BI Service** with scheduled refresh at 1 AM everyday. [Power BI](https://app.powerbi.com/reportEmbed?reportId=4ba8b061-2eb3-478b-8fae-0cc86e0c5d53&autoAuth=true&ctid=a2f14507-fab7-4185-9f8d-bbb265ce04e5)
 ---
 
 ## 📌 Overview
@@ -63,7 +63,6 @@ bash
 
 * Add more cities dynamically through slicers.
 * Integrate historical weather data.
-* Deploy report to **Power BI Service** with scheduled refresh.
 
 ---
 
