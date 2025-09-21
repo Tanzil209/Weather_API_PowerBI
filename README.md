@@ -42,9 +42,8 @@ Weather\_API\_PowerBI/
 
 ## 🚀 How to Use
 1. Clone the repository:
-   ```bash
+bash
    git clone https://github.com/Tanzil209/Weather_API_PowerBI.git
-````
 
 2. Open `weather API.pbix` in **Power BI Desktop**.
 3. Replace the API key in the data source with your own [WeatherAPI key](https://www.weatherapi.com/my/).
