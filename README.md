@@ -1,5 +1,11 @@
 # 🌦️ Weather Dashboard (Power BI)
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Tanzil209/Weather_API_PowerBI/raw/main/images/Screenshot_output.png)
+
+---
+
 ## 📌 Overview
 This project is a **Power BI Dashboard** built using data from the [WeatherAPI](https://www.weatherapi.com/).  
 It provides a **7-day weather forecast** along with key metrics such as:
@@ -51,12 +57,6 @@ Weather\_API\_PowerBI/
 1. Sign up at [WeatherAPI](https://www.weatherapi.com/).
 2. Get your **free API key** from your dashboard.
 3. Replace it in Power BI’s query editor connection.
-
----
-
-## 📊 Dashboard Preview
-
-![Dashboard Screenshot](https://github.com/Tanzil209/Weather_API_PowerBI/raw/main/images/Screenshot_output.png)
 
 ---
 
